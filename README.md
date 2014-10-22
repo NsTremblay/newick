@@ -14,7 +14,7 @@ The tree of nodes is built recursively by first scanning the whole newick string
 
 ex:
 
-(,,(,));                               no nodes are named
+(,,(,));                               no nodes are named <br>
 (A,B,(C,D));                           leaf nodes are named
 (A,B,(C,D)E)F;                         all nodes are named
 (:0.1,:0.2,(:0.3,:0.4):0.5);           all but root node have a distance to parent
