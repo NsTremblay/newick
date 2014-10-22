@@ -28,3 +28,4 @@ Taken from the example in the wikipedia description, the first and second line a
 Once, all the nodes are built, we can draw it. In this case, the tree is printed as an svg format. This is also done recusively, the recursion needs to keep track of the distance of the node and the deph of the tree to be able to draw the horizontal lines. The length of the vertical line is calculated by the amount of children present and descendants.
 The following newick string (KI658372:7.1884765625,(((ADBV01001119:2,HF958831:2):0,(EU643481:1.25,(HF965797:2,JH712158:2):1.25):0):0,((EU643482:4.5,JH712070:4.5):0,(ADBV01001393:1.40625,(HF957929:0.5,((KB201334:0.25,(ADBV01002688:1,GL380099:1):0.25):0,(EU643485:1.5, GL379786:1.5):0):0.5):1.40625):0):0):7.1884765625)
 
+![alt tag](https://github.com/NsTremblay/newick/blob/master/tree.png)
