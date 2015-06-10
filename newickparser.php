@@ -20,11 +20,11 @@ class node{
 class leaf{
 	public $distance=0;
 	public $accession="";
-}
+ }
 
 class accessionsArray{
 	public $accessions = array();
-}
+ }
 
 $startNode = new node();
 $startNode->newickText = $newick;
