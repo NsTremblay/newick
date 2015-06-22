@@ -1,10 +1,3 @@
-======
-Newick
-
-
-Newick file format is a string notation that represent a tree represenation of some data. A great description of the newick format can be found here http://en.wikipedia.org/wiki/Newick_format
-
-
 Building the tree
 ======
 
