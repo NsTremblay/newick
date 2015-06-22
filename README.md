@@ -1,4 +1,4 @@
-Building the tre
+Building the tree
 ======
 
 This is done in a 2 step process. The first step is to build a system of nodes that will represent the tree. The second step is to take this set of nodes and draw it from the root.
