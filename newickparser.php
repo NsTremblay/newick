@@ -24,7 +24,7 @@ class leaf{
 
 class accessionsArray{
 	public $accessions = array();
-}
+ }
 
 $startNode = new node();
 $startNode->newickText = $newick;
