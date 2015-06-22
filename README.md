@@ -1,7 +1,7 @@
 Building the tree
 ======
 
-This is done in a 2 step process. The first step is to build a system of nodes that will represent the tree. The second step is to take this set of nodes and draw it from the root.
+is is done in a 2 step process. The first step is to build a system of nodes that will represent the tree. The second step is to take this set of nodes and draw it from the root.
 
 The tree of nodes is built recursively by first scanning the whole newick string and taking the 2 or more subsections. This is done by keeping track of the amount of opened parentheses and the locations of the commas relative to the amount of parentheses.
 
