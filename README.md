@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-eNwick
-=======
-Nk
->>>>>>> 14bcab23d686497752a4ade4dd3cf97f7c263ab2
 ======
+Newick
 
 
 Newick file format is a string notation that represent a tree represenation of some data. A great description of the newick format can be found here http://en.wikipedia.org/wiki/Newick_format
